@@ -4,7 +4,7 @@
 # Installing
 Run this:
 ```bash
-$ go get https://github.com/ankddev/conemu-progressbar-go
+$ go get github.com/ankddev/conemu-progressbar-go
 ```
 Then, import in your code:
 ```go
