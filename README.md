@@ -11,7 +11,7 @@ Then, import in your code:
 import "github.com/ankddev/conemu-progressbar-go"
 ```
 And enjoy!
-# Documentation
+# [Documentation](https://pkg.go.dev/github.com/ankddev/conemu-progressbar-go#section-documentation)
 Functions:
 * `ClearProgress` clears progress via sending sequence with 0 state
 ```go
