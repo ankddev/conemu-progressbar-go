@@ -1,5 +1,5 @@
 <h1 align="center">conemu-progressbar for Go</h1>
-<h6 align="center">Simple Go library for using ConEmu ProgressBar sequences (`OSC 9;4`)</h6>
+<h6 align="center">Simple Go library for using ConEmu ProgressBar sequences (<code>OSC 9;4</code>)</h6>
 
 # Installing
 Run this:
