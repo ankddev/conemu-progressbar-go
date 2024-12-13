@@ -55,3 +55,9 @@ $ go test
 ```
 * Commit and push changes
 * Create pull request
+# See Also
+
+- [codewars-api-rs](https://github.com/ankddev/codewars-api-rs) - Rust library for Codewars API
+- [envfetch](https://github.com/ankddev/envfetch) - Lightweight crossplatform CLI tool for working with environment variables
+- [terminal-go](https://github.com/ankddev/terminal-go) - Go library for working with ANSI/VT terminal sequences
+- [zapret-discord-youtube](https://github.com/ankddev/zapret-discord-youtube) - Zapret build for Windows for fixing Discord and YouTube in Russia or othher services
